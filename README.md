@@ -39,7 +39,7 @@ To make any change,
 - Linkedin: [Hasan Özovalı](https://www.linkedin.com/in/hasan-ozovali/)
 - Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
 
-👤 **Hasan Özovalı**
+👤 **Daniel Duran**
 
 - Github: [@Daniduran-dev](https://github.com/Daniduran-dev)
 
