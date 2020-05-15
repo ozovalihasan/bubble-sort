@@ -15,15 +15,16 @@ To get a local copy up and running follow these simple example steps:
 ### Prerequisites
 
 - Text Editor (VSCode is suggested.)
+- (Ruby)[https://ruby-doc.org/downloads/]
 
 ### Setup
 
 - Install [git](https://git-scm.com/downloads)
 - Open Terminal
 - Change directory to folder to download repository
-- Use `cd <file-path>` for Windows
-- Run `git clone git@github.com:ozovalihasan/capstoneHtmlCss.git`
-- Install (Ruby)[https://ruby-doc.com/]
+- Use `cd <file-path>`
+- Run `git clone https://github.com/ozovalihasan/bubble-sort.git`
+- Install (Ruby)[https://ruby-doc.org/downloads/]
 - Run `ruby main.rb`
 
 To make any change,
