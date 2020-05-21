@@ -8,6 +8,10 @@ bubble_sort and bubble_sort_by methods are created to sort integers and array co
 
 - Ruby
 
+## Live version 
+
+[![Run on Repl.it](https://repl.it/badge/github/ozovalihasan/bubble-sort)](https://repl.it/github/ozovalihasan/bubble-sort)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
